@@ -1,4 +1,6 @@
 # ManageIt_ShuvadipDutta_B.TechCSE-DS-003
+**We are integrating the Frontend and Backend at the Moment, some functions will not work properly.**
+________________________________________
 
 Real-time Collaborative Task Manager
 ________________________________________
@@ -12,8 +14,6 @@ Basic activity feed for team collaboration
 Simple task deadlines and reminders
 ________________________________________
 
-We are integrating the Frontend and Backend at the Moment, some functions will not work properly.
-________________________________________
 
 For backend refer to : https://github.com/Shuvadip-Dutta/Manageit-Backend
 ________________________________________
